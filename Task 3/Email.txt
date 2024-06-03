@@ -1,0 +1,50 @@
+Write a short email to the engagement partner
+Write a short email to the engagement partner, explaining your findings, and include suggestions as to what needs to be changed
+
+Subject: Insights and Recommendations for PhoneNow Dashboard
+
+Hi Janet,
+
+I hope this email finds you well.
+
+I have reviewed the inputs provided for the PhoneNow dashboard and have identified several key findings and recommendations to enhance our analysis:
+
+Findings:
+
+Customer Churn Data:
+
+Analysis shows that a significant number of customers who left within the last month are those without partners and dependents. This demographic seems more likely to churn, indicating a potential area for targeted retention efforts.
+
+Service Usage:
+
+There is a noticeable trend that customers who signed up for multiple services, such as online security and streaming services, tend to stay longer. Customers with fewer services are more likely to leave, suggesting that bundling services could be a strategy to reduce churn.
+
+Account Information:
+
+Customers on month-to-month contracts have a higher churn rate compared to those on annual contracts. Additionally, those who do not use paperless billing and have higher monthly charges also show a higher tendency to leave.
+
+Demographics:
+
+Gender analysis indicates that male customers are more likely to use tech support services and online backups, while female customers show higher engagement with streaming services. Understanding these preferences can help tailor our service offerings.
+
+Recommendations:
+
+Targeted Retention Programs:
+
+Develop retention strategies focusing on single customers and those without dependents. Personalized offers and targeted communication can help address their specific needs and reduce churn.
+
+Service Bundling:
+
+Promote bundled service packages, especially focusing on combining online security, backup services, and streaming options. This can increase the perceived value and encourage customers to stay longer.
+
+Contract and Billing Adjustments:
+
+Encourage customers to switch to annual contracts by offering discounts or incentives. Promote paperless billing with additional perks to increase its adoption, potentially reducing churn rates.
+
+Tailored Service Offerings:
+
+Utilize gender-based insights to offer personalized services and support. For example, enhance tech support visibility for male customers and promote streaming packages to female customers.
+
+I am looking forward to discussing these insights further and implementing the necessary changes to improve our retention rates and customer satisfaction.
+
+Best regards.
